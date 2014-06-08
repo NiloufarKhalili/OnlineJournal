@@ -1,0 +1,52 @@
+#signup {
+	padding: 100px;
+	position: relative;
+	width: 1000px;
+	height: 550px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: bold;
+	color: #09C;
+	border-radius: 10px;
+	padding: 10px;
+	border: 1px solid #999;
+	background-color: #CFCFCF;
+}
+
+hr {
+	color: #00CCFF;
+	background-color: #00CCFF;
+	height: 5px;
+}
+
+.container {
+	margin-top: 1cm;
+}
+
+#body {
+	background-color: #98BDBD;
+}
+
+#hiddenMessage {
+	display: none;
+}
+
+#explain {
+	font-style: oblique;
+	font-size: 80%;
+	color: gray;
+}
+
+#flash-message {
+	width: 300px;
+	margin-left: -250px;
+	position: relative;
+	top: 0px;
+	left: 50%;
+	z-index: 1035;
+	padding: 3px 23px 3px 10px;
+	text-align: center;
+	
+	color:#FF0000;
+}
